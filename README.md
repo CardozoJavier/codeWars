@@ -1,2 +1,3 @@
-# codeWars
-Resolución de ejercicios en Codewars utilizando JavaScript.
+# Code Wars
+
+*Resolución de ejercicios en [Codewars](https://www.codewars.com/dashboard) utilizando **JavaScript***.

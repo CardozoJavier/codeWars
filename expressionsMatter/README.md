@@ -23,22 +23,25 @@
 * You **cannot swap the operands**. For instance, in the given example **you cannot get expression** `(1 + 3) * 2 = 8`.
 
 ### Input \>\> Output Examples:
+
+#### Explanation:
 ```
 1. expressionsMatter(1,2,3)  ==>  return 9
 ```
-### *Explanation:
-After placing signs and brackets, the **Maximum value** obtained from the expression* `(1+2) * 3 = 9`.
+*After placing signs and brackets, the **Maximum value** obtained from the expression* `(1+2) * 3 = 9`.
 
+
+#### Explanation:
 ```
 2. expressionsMatter(1,1,1)  ==>  return 3
 ```
-### *Explanation:
-After placing signs, the **Maximum value** obtained from the expression is* `1 + 1 + 1 = 3`.
+*After placing signs, the **Maximum value** obtained from the expression is* `1 + 1 + 1 = 3`.
 
+
+#### Explanation:
 ```
 3. expressionsMatter(9,1,1)  ==>  return 18
 ```
-### *Explanation:
-After placing signs and brackets, the **Maximum value** obtained from the expression is* `9 * (1+1) = 18`.
+*After placing signs and brackets, the **Maximum value** obtained from the expression is* `9 * (1+1) = 18`.
 
 

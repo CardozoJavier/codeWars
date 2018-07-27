@@ -33,4 +33,4 @@ Return:
 ```
 ### Notes
 * Keys and values may be of any type appropriate for use as a key.
-* All hashes provided as input will have unique values, so the inversion is [https://en.wikipedia.org/wiki/Involution_%28mathematics%29](involutive). In other words, do not worry about identical values stored under different keys.
+* All hashes provided as input will have unique values, so the inversion is [involutive](https://en.wikipedia.org/wiki/Involution_%28mathematics%29). In other words, do not worry about identical values stored under different keys.

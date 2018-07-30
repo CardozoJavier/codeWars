@@ -1,4 +1,4 @@
-function array_diff(a,b){
+var array_diff= function(a,b){
   var array=[];
   if (b.length === 0){return a;}
   // Una vez finalizado ambos ciclos for, se devolvera el array compuesto por 

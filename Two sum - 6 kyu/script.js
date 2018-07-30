@@ -1,4 +1,4 @@
-function twoSum(numbers, target) {
+var twoSum= function(numbers, target) {
   var nwArr=[];
   for (var i=0; i < numbers.length; i++){
     for (var j=1; j < numbers.length; j++){

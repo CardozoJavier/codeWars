@@ -1,4 +1,4 @@
-function deleteNth(arr,n){
+var deleteNth= function(arr,n){
   var array= arr.slice();
   var count=1;
   for (var i=0; i < arr.length; i++){

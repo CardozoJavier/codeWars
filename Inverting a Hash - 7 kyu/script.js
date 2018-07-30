@@ -1,4 +1,4 @@
-function invertHash(hash) {
+var invertHash= function(hash) {
     var reverseObj= {};
     var keys= Object.keys(hash);
     var values= Object.values(hash);

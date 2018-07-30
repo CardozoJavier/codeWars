@@ -1,4 +1,4 @@
-function printerError(s) {
+var printerError= function(s) {
   var count = 0;
   for (var i = 0; i < s.length; i++) {
     if (s.charCodeAt(i) > 109) {

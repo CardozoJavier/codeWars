@@ -1,4 +1,4 @@
-function numPrimorial(x){
+var numPrimorial= function(x){
    var arr=[];
    var i=2;
    var resul=1;

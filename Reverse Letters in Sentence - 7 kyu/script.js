@@ -1,4 +1,4 @@
-function reverser(sentence) {
+var reverser= function(sentence) {
   var array=[];
   var resul=[];
   for (var i=0; i<sentence.length; i++){
